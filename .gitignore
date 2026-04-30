@@ -25,5 +25,11 @@ Thumbs.db
 # Logs
 *.log
 
+# Python
+push_to_hub.py
+
+# Environment variables
+.env
+
 # Local model checkpoint
 fallacy_model/
