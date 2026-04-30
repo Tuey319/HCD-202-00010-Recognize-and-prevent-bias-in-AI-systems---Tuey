@@ -26,7 +26,6 @@ Thumbs.db
 *.log
 
 # Python
-push_to_hub.py
 
 # Environment variables
 .env
