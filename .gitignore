@@ -24,3 +24,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Local model checkpoint
+fallacy_model/
